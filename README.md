@@ -21,7 +21,7 @@ Currently diving deep into:
 </td>
 
 <td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlvazE4eGpha2I0cHU3cWtwdXpzMGZyMDBxYmxuMjRwdW5oN2Y5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 </td>
 </tr>
 </table>

@@ -4,19 +4,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Software+Engineer;AI+%2F+ML+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=node.js&logoColor=white"/>
+</p>
+
 ---
 
 <table width="100%">
 <tr>
 <td valign="top" width="60%">
 
+### 👨‍💻 About Me
+
 Hello! I'm **Ayush Rawat**, a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
 
 ### 🌱 Learning Journey
 Currently diving deep into:
-- Advanced **Java DSA**
-- **MERN Stack**
-- Backend Architecture
+
+- ⚡ Advanced **Java DSA**
+- ⚡ **MERN Stack Development**
+- ⚡ Backend Architecture & APIs
+
+💡 *Always exploring new technologies and building impactful projects.*
 
 </td>
 
@@ -28,30 +40,30 @@ Currently diving deep into:
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 <table>
 
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br><b>React</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br><b>JavaScript</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br><b>Java</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><b>Spring Boot</b></td>
 </tr>
 
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br><b>MySQL</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><b>Node.js</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
 </tr>
 
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br><b>Bootstrap</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br><b>GitHub</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><b>Postman</b></td>
 </tr>
 
 </table>
@@ -59,12 +71,15 @@ Currently diving deep into:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
+<p align="center">
+✨ *Coming Soon — Currently building some exciting full-stack and AI powered projects.*
+</p>
 
 ---
 
-## 🧠 LeetCode & Problem Solving
+# 🧠 LeetCode & Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/u/ayush_rwt007/" target="_blank">
@@ -73,13 +88,12 @@ Currently diving deep into:
 </p>
 
 <p align="center">
-  💡 Solving Data Structures & Algorithms problems consistently to strengthen coding skills.
+💡 Solving Data Structures & Algorithms problems consistently to strengthen coding skills.
 </p>
-
 
 ---
 
-## 🔥 GitHub Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayush1125cherry&theme=radical" />
@@ -87,7 +101,7 @@ Currently diving deep into:
 
 ---
 
-## 🔍 Profile Views
+# 🔍 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush1125cherry&label=Profile%20views&color=0e75b6&style=flat" />
@@ -95,13 +109,13 @@ Currently diving deep into:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/aayush1125cherry">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="ayushrawat3243@gmail.com">
+  <a href="mailto:ayushrawat3243@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/">

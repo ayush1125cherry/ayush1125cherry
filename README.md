@@ -15,7 +15,7 @@ Hello! I'm **Ayush Rawat**, a passionate developer focused on building scalable 
 ### 🌱 Learning Journey
 Currently diving deep into:
 - Advanced **Java DSA**
-- **MERN Stack**
+- **Full Stack**
 - Backend Architecture
 
 </td>

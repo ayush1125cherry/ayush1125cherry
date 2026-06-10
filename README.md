@@ -68,7 +68,7 @@ Currently diving deep into:
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush1125cherry&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayush1125cherry&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -96,7 +96,8 @@ Currently diving deep into:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/aayush1125cherry">
+  <a href="https://github.com/
+    ayush1125cherry">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 

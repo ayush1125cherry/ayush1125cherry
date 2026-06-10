@@ -10,13 +10,31 @@
 <tr>
 <td valign="top" width="60%">
 
-Hello! I'm **Ayush Rawat**, a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
+Hello! I'm **Ayush Rawat**, a Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology. I specialize in **Java, Spring Boot, React, and databases**, with hands-on experience developing complete frontend and backend solutions.
 
 ### 🌱 Learning Journey
+
 Currently diving deep into:
-- Advanced **Java DSA**
-- **Full Stack**
-- Backend Architecture
+
+* Advanced **Java & Data Structures & Algorithms**
+* **Full Stack Development**
+* **Spring Boot & Backend Architecture**
+* RESTful API Development
+* Database Design & Optimization
+
+### 🛠️ Core Skills
+
+* Java, JavaScript, SQL, HTML, CSS
+* React, Spring Boot, Tailwind CSS
+* MySQL, PostgreSQL
+* Git, GitHub, Docker, Postman
+
+### 🎯 Highlights
+
+* Solved **300+ coding problems**
+* Built full-stack projects using React & Spring Boot
+* Experienced with JWT Authentication and REST APIs
+
 
 </td>
 

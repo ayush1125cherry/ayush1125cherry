@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/avatar.png" width="350" alt="Ayush Avatar"/>
+  <img
+    src="https://github.com/user-attachments/assets/ff032706-0553-4465-a2b7-2a8a2f3e4a7f"
+    width="320"
+    alt="Ayush Avatar"
+  />
 </p>
 
 ---

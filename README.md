@@ -68,7 +68,7 @@ Currently diving deep into:
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayush1125cherry&show_icons=true&theme=radical" />
+  <img src="https://leetcard.jacoblin.cool/ayush_rwt007?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <p align="center">

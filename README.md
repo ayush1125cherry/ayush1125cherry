@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Fullstack+Developer;DSA;SpringBoot" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/ff032706-0553-4465-a2b7-2a8a2f3e4a7f"
-    width="320"
-    alt="Ayush Avatar"
-  />
-</p>
-
 ---
 
 <table width="100%">
@@ -29,9 +21,11 @@ Currently diving deep into:
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
+  <img
+    src="https://github.com/user-attachments/assets/ff032706-0553-4465-a2b7-2a8a2f3e4a7f"
+    width="300"
+    alt="Ayush Avatar"
+  />
 </td>
 </tr>
 </table>

@@ -44,7 +44,7 @@ Currently diving deep into:
 
 <tr>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
 </tr>

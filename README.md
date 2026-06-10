@@ -29,12 +29,6 @@ Currently diving deep into:
 * MySQL, PostgreSQL
 * Git, GitHub, Docker, Postman
 
-### 🎯 Highlights
-
-* Solved **300+ coding problems**
-* Built full-stack projects using React & Spring Boot
-* Experienced with JWT Authentication and REST APIs
-
 
 </td>
 

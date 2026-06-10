@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Fullstack+Developer;DSA;SpringBoot" />
 </p>
 
+<p align="center">
+  <img src="./assets/avatar.png" width="350" alt="Ayush Avatar"/>
+</p>
+
 ---
 
 <table width="100%">

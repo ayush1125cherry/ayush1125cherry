@@ -68,9 +68,7 @@ Currently diving deep into:
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/ayush_rwt007/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush1125cherry&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">

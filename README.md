@@ -1,66 +1,55 @@
-<h1 align="center">🚀 Portfolio of Ayush Rawat</h1>
+# 🚀 Ayush Rawat
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Fullstack+Developer;DSA;SpringBoot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
+  Passionate Full Stack Developer focused on building scalable web applications and solving real-world problems through clean and efficient code.
 </p>
 
 ---
 
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
+## 👨‍💻 About Me
 
-Hello! I'm **Ayush Rawat**, a passionate developer focused on building scalable full-stack systems and intelligent AI solutions.
+Hi, I'm **Ayush Rawat**, a Computer Science student and Full Stack Developer with a strong interest in backend development and software engineering.
 
-### 🌱 Learning Journey
-Currently diving deep into:
-- Advanced **Java DSA**
-- **Full Stack**
-- Backend Architecture
-
-</td>
-
-<td align="center">
-<img <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-</td>
-</tr>
-</table>
+* 🌱 Currently learning **Advanced Java, Spring Boot, and Full Stack Development**
+* 💡 Passionate about **Data Structures & Algorithms**
+* 🚀 Building scalable and user-friendly applications
+* 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-<table>
 
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
-</tr>
+| Frontend   | Backend     | Database | Tools   |
+| ---------- | ----------- | -------- | ------- |
+| React      | Spring Boot | MySQL    | Git     |
+| JavaScript | Java        | SQL      | GitHub  |
+| HTML5      | REST APIs   |          | Postman |
+| CSS3       | Node.js     |          | VS Code |
+| Bootstrap  |             |          |         |
 
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-</tr>
-
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-</tr>
-
-</table>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔹 Portfolio Website
+
+Personal portfolio built using React, Tailwind CSS, and Framer Motion featuring modern UI, animations, and responsive design.
+
+### 🔹 AI-Powered Lovable Clone
+
+Full-stack application with Spring Boot backend, authentication, project collaboration, and AI-powered features.
+
+### 🔹 VR/AR Projects
+
+Interactive Virtual Reality and Augmented Reality experiences focused on immersive user engagement.
 
 ---
 
@@ -73,24 +62,32 @@ Currently diving deep into:
 </p>
 
 <p align="center">
-  💡 Solving Data Structures & Algorithms problems consistently to strengthen coding skills.
-</p>
-
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush1125cherry&theme=radical" />
+  Solving Data Structures and Algorithms problems consistently to strengthen problem-solving and coding skills.
 </p>
 
 ---
 
-## 🔍 Profile Views
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush1125cherry&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush1125cherry&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush1125cherry&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aayush1125cherry&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayush1125cherry&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -101,11 +98,18 @@ Currently diving deep into:
   <a href="https://github.com/aayush1125cherry">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="ayushrawat3243@gmail.com">
+
+  <a href="mailto:ayushrawat3243@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ayush-rawat-26902b301">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
